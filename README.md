@@ -1,15 +1,5 @@
 # whats
-<br><span size="20px" color="#777"><b>WhatsApp Sploit</b></span>
-<p>
-  pkg update && pkg upgrade<br>
-  pkg install python2<br>
-  pip2 install mechanize<br>
-  pkg install git<br>
-  git clone https://github.com/gellmoxer/whats<br>
-  cd whats<br>
-  python2 whats.py<br>
-  <br>
-<img src="https://github.com/gellmoxer/pic/blob/master/whats.JPG" width="120px" alt="screenshot">
 
-<br>
-## Use Metasploit, SSH
+### This is not Whatsapp Hacking
+
+This is script is just forking from <a href="https://github.com/jakofff/whats">jakoff/whats</a> which the author only delete the entire user data where the script is compiled into byte-code, so in order people prevent getting user data deleted, i'm reverse engineering the script, so the people know what inside.
